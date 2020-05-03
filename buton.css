@@ -5,9 +5,13 @@ body, html{
     height: 100%;
 }
 
-.button{
+.buttonCristina{
     border: 0.02em solid black;
     background-color: blueviolet;
     color: #000000;
     font-weight: bold;
+}
+
+.buttonStefan{
+    color: blueviolet;
 }
