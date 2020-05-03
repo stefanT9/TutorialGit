@@ -9,5 +9,7 @@ body, html{
     border: 0.02em solid black;
     background-color: blueviolet;
     color: #000000;
-    font-weight: bold;
+    font-weight: bold;}
+.button_mada{
+    color:magenta;
 }
