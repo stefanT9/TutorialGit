@@ -1,0 +1,13 @@
+body, html{
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    height: 100%;
+}
+
+.button{
+    border: 0.02em solid black;
+    background-color: blueviolet;
+    color: #000000;
+    font-weight: bold;
+}
